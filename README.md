@@ -1,9 +1,4 @@
-nusoap
-======
-
 <h2>Nusoap PHP library</h2> 
-
-Copy of original library for supporting packagist composer.
 
 Simple example of Soap client call -
 ```php
